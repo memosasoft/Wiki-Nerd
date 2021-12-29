@@ -1,0 +1,17 @@
+WIKIPEDIA COPYRIGHT
+
+The text of Wikipedia is copyrighted (automatically, under the Berne Convention) by Wikipedia editors and contributors and is formally licensed to the public under one or several liberal licenses. Most of Wikipedia's text and many of its images are co-licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License (CC BY-SA) and the GNU Free Documentation License (GFDL) (unversioned, with no invariant sections, front-cover texts, or back-cover texts). Some text has been imported only under CC BY-SA and CC BY-SA-compatible license and cannot be reused under GFDL; such text will be identified on the page footer, in the page history, or on the discussion page of the article that utilizes the text. Every image has a description page that indicates the license under which it is released or, if it is non-free, the rationale under which it is used.
+
+The licenses Wikipedia uses grant free access to our content in the same sense that free software is licensed freely. Wikipedia content can be copied, modified, and redistributed if and only if the copied version is made available on the same terms to others and acknowledgment of the authors of the Wikipedia article used is included (a link back to the article is generally thought to satisfy the attribution requirement; see below for more details). Copied Wikipedia content will therefore remain free under an appropriate license and can continue to be used by anyone subject to certain restrictions, most of which aim to ensure that freedom. This principle is known as copyleft in contrast to typical copyright licenses.
+
+To this end,
+
+Permission is granted to copy, distribute and/or modify Wikipedia's text under the terms of the Creative Commons Attribution-ShareAlike 3.0 Unported License and, unless otherwise noted, the GNU Free Documentation License, unversioned, with no invariant sections, front-cover texts, or back-cover texts.
+
+A copy of the Creative Commons Attribution-ShareAlike 3.0 Unported License is included in the section entitled "Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License"
+
+A copy of the GNU Free Documentation License is included in the section entitled "GNU Free Documentation License".
+
+Content on Wikipedia is covered by disclaimers.
+
+The English text of the CC BY-SA and GFDL licenses is the only legally binding restriction between authors and users of Wikipedia content. What follows is our interpretation of CC BY-SA and GFDL, as it pertains to the rights and obligations of users and contributors. 
