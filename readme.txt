@@ -1,16 +1,17 @@
 wiki-nerd_0.1
 
-This is a AI project for exploring machine learning and semantic networks. 
+This is a AI project for exploring machine learning with Wikipedia. 
 
-It uses nlp techniques to read wikipedia text data. It memories the data and classifies it by extracting semantic networks based on keyword frequencies found in diferent section of a same wikipedia document. The document having a main title and sub title gives us the subject of specifique section of text.
+It uses nlp techniques to read wikipedia text data. 
+This is an exploration project for tests NLP techniques and text extraction techniques from structured document.
 
-To classiy de word frequency date the title and sub title are used as the data subject. 
+WikiNerd memories data and classifies it by extracting semantic based on keyword frequencies found in diferent section of a same wikipedia document. 
 
-The system self-learn by reading wikipedia texts and linking the to the subject defined by title of each section of text. 
+The system self-learn by reading wikipedia texts and linking subjects together it still in developpement.
 
 After the learning process the system can by switched to detection mode. 
 
-It then reads a text conevets it to small semantic networks and the matches the networks to try to classsify the documents subjets being read.
+It then reads a text and the matches the networks to try to classsify the documents subjets being read.
 
 INSTALLATION GUIDE
 Just copy these folders to your working directory
