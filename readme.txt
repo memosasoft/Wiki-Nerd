@@ -1,19 +1,19 @@
-**THIS AN OLD PROJECT NOT MAINTAINED AND FOR EDUCATIONAL PURPOSESE**
+THIS AN OLD PROJECT NOT MAINTAINED AND FOR EDUCATIONAL PURPOSES
 
 **wiki-nerd_0.1**
 
-This is a AI project for exploring machine learning with Wikipedia. 
+This is an AI project for exploring machine learning with Wikipedia. 
 
 It uses nlp techniques to read wikipedia text data. 
-This is an exploration project for tests NLP techniques and text extraction techniques from structured document.
+This is an exploration project for testing NLP techniques and text extraction techniques from structured documents.
 
 WikiNerd memories data and classifies it by extracting semantic based on keyword frequencies found in diferent section of a same wikipedia document. 
 
-The system self-learn by reading wikipedia texts and linking subjects together it still in developpement.
+The system self-learn by reading wikipedia texts and linking subjects together it is still in developpement.
 
-After the learning process the system can by switched to detection mode. 
+After the learning process the system can be switched to detection mode. 
 
-It then reads a text and the matches the networks to try to classsify the documents subjets being read.
+It then reads a text and then matches the networks to try to classify the documents subjects being read.
 
 INSTALLATION GUIDE
 Just copy these folders to your working directory
@@ -46,11 +46,11 @@ Run text uniformisation and preparation script
 
 text_tools.py
 
-3)  LEARNING PROCESS
+3)  LEARNING PROCESS
 
 Running wiki-nerd_1.0.py will start the learning process
 
-4)  CLASSIFICATION 
+4)  CLASSIFICATION 
 
 Run after learning process to classify document
 
@@ -58,7 +58,7 @@ Set MODE in script to DETECTING
 wiki-nerd.py
 
 UNDER THE HOOD 
-PROJECT DETAILS: MECANICS AND ARCHITECTURE
+PROJECT DETAILS: MECHANICS AND ARCHITECTURE
 
 LEARNING PHASE
 
@@ -69,7 +69,7 @@ LEARNING PHASE
 
 CLASSIFICATION PHASE
 
-The system can then read text, evaluate them and classify them it can find related subjects. The system also to summarize in a dynamique changing template the information extracted during the classification phase.
+The system can then read text, evaluate them and classify them so it can find related subjects. The system also summarizes in a dynamique changing template the information extracted during the classification phase.
 
 OPEN SOURCE PHILOSOPHIE
 
@@ -79,37 +79,37 @@ If you want to modify the software you are welcome.
 
 DATA GATHERING WORKFLOW
 
-First the documents data must be spidered. I specifique wiki spider was developped to download and extract text from wekipedia. 
+First the documents data must be spidered. I specifique wiki spider was developed to download and extract text from wikipedia. 
 
-The works is passed to text cleaner that simplifies the actual reading process. Then the program read and learns the textual information. It store it. Then the system can run in detection mode and read and identifie the subject of any text document. A copy of the html was saved for futher developement and smarter text extraction. 
+The work is passed to a text cleaner that simplifies the actual reading process. Then the program reads and learns the textual information. It stores it. Then the system can run in detection mode and read and identify the subject of any text document. A copy of the html was saved for further development and smarter text extraction. 
 
-The the learning program reads the coillected and cleaned docunent.
+The learning program reads the collected and cleaned document.
 
 LET THE NERD LEARN
 
-System read a document and is feeded a subject for the document from the spidee program.
+System reads a document and is feeded a subject for the document from the spider program.
 
 System stores high frequency keywords in relation to related subjects that are identified in the text. 
 
-The data being used as many section and sub titles the main subject is related other relate subjects and the freqency of the keywords are related to this sections. 
+The data being used as many sections and sub titles the main subject is related to other related subjects and the frequency of the keywords are related to these sections. 
 
 Semantic network
-title - subtitle - kewords
+title - subtitle - keywords
 
-We store the title then the subtiltle and the keywords related. 
-Keyword frequency is used represented by weights. 
+We store the title then the subtitle and the keywords related. 
+Keyword frequency is represented by weights. 
 
 1,2 After the learning process
 
-The system read a text file and check memory for matches then it try to identify the text subject. It will also try to summurize the information and make relation with other subjects. The ability to identify a subject can then be used to search the internet automaticly for a user leaving autommating the search process for users and delivery automaticly content with high quality value. 
+The system reads a text file and checks memory for matches then it tries to identify the text subject. It will also try to summarize the information and make relations with other subjects. The ability to identify a subject can then be used to search the internet automatically for a user leaving automating the search process for users and delivering automatically content with high quality value. 
 
-Project objetives and application
+Project objectives and application
 
 1) Auto classification of text documents
 2) Auto evaluation of text documents
 3) Query generation and exploration 
-4) Semantic netwoks with binary memory
-5) Self-learning capabilitie 
+4) Semantic networks with binary memory
+5) Self-learning capability 
 6) Search process automation
 
 TODO - needed for the project
@@ -118,7 +118,7 @@ Memory dictionnary
 User profile 
 Search algorithms
 Spreading activation
-Text evalution
+Text evaluation
 Tests
 Refine stoplists 
 Website interface
