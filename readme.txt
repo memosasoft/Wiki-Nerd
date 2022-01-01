@@ -125,3 +125,10 @@ Website interface
 Summarization
 Text creation 
 Internet module 
+
+THIS AN OLD PROJECT NOT MAINTAINED AND FOR EDUCATIONAL PURPOSES
+
+Memo SIM - Happy to share
+
+SIM - Service Memosa
+https://services-memosa.weebly.com/
