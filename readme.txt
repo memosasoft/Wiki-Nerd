@@ -1,4 +1,6 @@
-wiki-nerd_0.1
+**THIS AN OLD PROJECT NOT MAINTAINED AND FOR EDUCATIONAL PURPOSESE**
+
+**wiki-nerd_0.1**
 
 This is a AI project for exploring machine learning with Wikipedia. 
 
